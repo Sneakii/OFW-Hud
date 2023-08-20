@@ -15,7 +15,7 @@
 		"tabPosition"			"0"
 		"PaintBackgroundType"	"0"
 	}
-	
+
 	"PnlBackgroundTop"
 	{
 		"ControlName"		"ImagePanel"
