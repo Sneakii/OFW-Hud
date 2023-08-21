@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui\OFWbutton_central_depressed"
+	"$translucent" 1
+	"$ignorez" 1
+}
